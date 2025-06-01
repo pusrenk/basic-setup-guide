@@ -2,6 +2,31 @@
 
 This repository contains the basic guidelines and project structure for our backend service.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
+- [Development Guidelines](#development-guidelines)
+  - [Code Principles](#code-principles)
+    - [DRY (Don't Repeat Yourself)](#1-dry-dont-repeat-yourself)
+    - [SOLID Principles](#2-solid-principles)
+    - [Clean Code Practices](#3-clean-code-practices)
+    - [Error Handling](#4-error-handling)
+  - [Creating Pull Requests](#creating-pull-requests)
+    - [Branch Naming](#1-branch-naming)
+    - [Commit Messages](#2-commit-messages)
+    - [PR Description](#3-pr-description)
+  - [Code Review Guidelines](#code-review-guidelines)
+    - [What to Review](#1-what-to-review)
+    - [Review Process](#2-review-process)
+    - [Response to Reviews](#3-response-to-reviews)
+  - [Testing Guidelines](#testing-guidelines)
+    - [Unit Tests](#1-unit-tests)
+    - [Integration Tests](#2-integration-tests)
+    - [Test Coverage](#3-test-coverage)
+  - [Documentation](#documentation)
+    - [Code Documentation](#1-code-documentation)
+    - [Project Documentation](#2-project-documentation)
+
 ## Project Overview
 
 This is an example of our project tree if later on we want to add new service 
